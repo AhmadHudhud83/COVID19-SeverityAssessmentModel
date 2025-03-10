@@ -1,0 +1,4 @@
+[core]
+    remote = covid19remote
+['remote "covid19remote"']
+    url = ../UsersGigabyteAppDataLocalTempcovid19remote

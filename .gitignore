@@ -2,7 +2,8 @@
 .venv
 models
 reports
-
+data/*
+!data/**/*.dvc
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
